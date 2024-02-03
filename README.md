@@ -1,1 +1,1 @@
-(deploy)[https://rss-puzzle.netlify.app/]
+deploy https://rss-puzzle.netlify.app/
