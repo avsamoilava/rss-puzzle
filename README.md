@@ -1,2 +1,1 @@
-# avsamoilava-JSFE2022Q3
-Private repository for @avsamoilava
+(deploy)[https://rss-puzzle.netlify.app/]
